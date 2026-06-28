@@ -63,6 +63,7 @@ spanning-tree extend system-id
 !         
 !         
 !         
+username <REDACTED_USER> privilege 15 secret <REDACTED_STRONG_HASH>
 !         
 redundancy
  mode none
