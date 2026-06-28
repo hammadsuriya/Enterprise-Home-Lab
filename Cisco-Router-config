@@ -56,7 +56,6 @@ multilink bundle-name authenticated
 !
 !
 !
-license udi pid ISR4431/K9 sn FOC22114P3A
 no license smart enable
 diagnostic bootup level minimal
 !         
@@ -64,7 +63,6 @@ spanning-tree extend system-id
 !         
 !         
 !         
-username hammad privilege 15 secret 5 $1$mbNs$5eQ1kf6X/A4eEETYwanb21
 !         
 redundancy
  mode none
